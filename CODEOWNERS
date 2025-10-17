@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @violettaliti
+/src/backend/database.py      @violettaliti
+/src/backend/routers/auth.py  @violettaliti
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @violettaliti
